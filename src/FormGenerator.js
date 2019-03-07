@@ -34,6 +34,7 @@ class FormGenerator extends Component {
         return temp
     }
     handleUpload = (e) => {
+        e.preventDefault();
         console.log("clicked")
         const that = this
         let url = domainUrl + "/aircrafts/"+this.props.type
