@@ -2,5 +2,13 @@
     "MSN" : "",
     "Harness Length" : "",
     "Gross Weight" : "",
-    "Atmospheric Pressure" : ""
+    "Atmospheric Pressure" : "",
+    "Room Temperature" : "",
+    "Airport" : "",
+    "Fuel Capacity on Left Wing" : "",
+    "Fuel Capacity on Right Wing" : "",
+    "Fuel Quantity on Left Wing" : "",
+    "Fuel Quantity on Right Wing" : "",
+    "Maximum Altitude to be reached" : "",
+    "Flight number" : ""
 }
